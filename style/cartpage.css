@@ -1,0 +1,117 @@
+.cartpagenav{
+    position: fixed;
+    background-color: aliceblue;
+    margin-top:-15%;
+    width: 1350px;
+    z-index: 2;
+}
+body h5{
+    margin-top:200px;
+ }
+#heading{
+    margin-top:50px;
+}
+#cart{
+    /* border: 1px solid rgb(204, 203, 203); */
+    margin-left: 20px;
+    width: 800px;
+    height: 220px;
+    padding-right:5px;
+    margin-top:80px;
+    border-radius: 10px;
+}
+#card{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+#card img{
+    width: 150px;
+    height: 160px;
+    margin-top: 45px;
+}
+#card h5{
+    margin-top:-2%;
+}
+#right{
+    /* border: 1px solid blue; */
+    margin-top: 5px;
+
+}
+#right button{
+    background-color: red;
+    margin-left: 70%;
+   height: 35px;
+   width: 150px;
+   color: aliceblue;
+   border-radius: 5px;
+   margin-bottom:12%;
+   border: none;
+}
+body #heading{
+    display: flex;
+    /* border: 1px solid rgb(175, 28, 53); */
+    gap:35%;
+    width: 800px;
+    margin-left: 20px;
+    height: 60px;
+}
+#mside{
+    width: 30%;
+    /* height: 95%; */
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+#mfirst{
+    width: 90%;
+    padding: 12px;
+    color: #10847e;
+    border: 1px solid #10847e;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+#msec{
+    width: 90%;
+    padding: 12px;
+    background-color: #10847e;
+    border: 1px solid #10847e;
+    color: white;
+    margin: auto;
+    border-radius: 10px;
+    display: block;
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: 700
+}
+#mside > div{
+    margin-left: 40px;
+    margin-top: 60px;
+   
+}
+#mside h3{
+    margin-top: 30px;
+}
+.total{
+    width: 90%;
+    /* margin: auto; */
+    /* display: flex; */
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    /* justify-content: space-between; */
+    gap:10px;
+   
+   
+}
+.loge{
+    display: flex;
+}
+#bottom{
+    margin-top:90px;
+}

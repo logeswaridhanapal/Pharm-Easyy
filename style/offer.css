@@ -1,0 +1,123 @@
+.offernav{
+    position: fixed;
+    background-color: aliceblue;
+    margin-top:-12%;
+    width: 1350px;
+    z-index: 2;
+  
+ }
+ /* .navbar2{
+    position: fixed;
+    background-color: aliceblue;
+    margin-top:-8%;
+    z-index: 2;
+    border: 1px solid black;
+   
+ } */
+.offer1{
+    margin-left:5%;
+    /* border: 1px solid red; */
+    margin-top:162px;
+}
+.offer1sub .button1{
+   background-color: #3bb896;
+   border:none;
+   color: #fff;
+   font-weight: 700;
+}
+.offer1sub .button{
+    border-color: gray;
+}
+.offer2sub1 img{
+    width: 60px;
+   height: 50px;
+}
+/* .offer2{
+    /* border: 1px solid red; */
+/* } */
+.offer2sub1{
+    /* border: 1px solid black; */
+    margin-top: 30px;
+}
+.offer2sub2{
+    border: 2px solid lightgray;
+    width: 540px;
+    height: 170px;
+    gap: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.offer2sub3{
+    /* border: 1px solid violet; */
+    width: 300px;
+    gap:20px; 
+}
+.offer3{
+    display: flex;
+    margin-right: 20px;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.offer3 p{
+    color: gray;
+}
+.offer4{
+    margin-left: 90px;
+    color: gray;
+}
+.offer5{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+}
+.offer5 ul{
+    color: gray;
+}
+.offer6{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+}
+.offer6 p{
+    color: gray;
+}
+.offer7{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+}
+.offer7 p{
+    color: gray;
+}
+.offer7 ol{
+    color: gray;
+}
+.offer8{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+}
+.offer8 p{
+    color: gray;
+}
+.offer9{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+}
+.offer9 p{
+    color: gray;
+}
+.offer10{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.offer10 p{
+    color: gray;
+}
+.offer10 ul{
+    color: gray;
+}

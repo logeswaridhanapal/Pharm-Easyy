@@ -1,0 +1,197 @@
+.valuenav{
+   position: fixed;
+   background-color: aliceblue;
+   margin-top:-15%;
+   width: 1350px;
+   z-index: 2;
+}
+body h5{
+   margin-top:200px;
+}
+.valuestore1{
+    display: flex;
+    width: 890px;
+    /* border: 1px solid black; */
+    margin-left: 430px;
+    margin-top:70px;
+    margin-bottom: 50px;
+}
+.valuestore1sub0{
+    display: flex;
+    width: 400px;
+    height: 47px;
+    /* border: 1px solid red; */
+    gap: 40px;
+    margin-left:180px;
+    margin-top: 20px;
+    padding-left:170px;
+}
+.valuestore1sub0 select{
+    width:190px;
+    font-size: 17px;
+    padding-left: 20px;
+    border-color: rgb(64, 64, 102);
+}
+
+#valuestore2{
+    /* border:1px solid blue; */
+    width:900px;
+    height:100% ;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   /* align-items: flex-start;
+    flex-direction:column;
+    overflow-x: scroll;
+    color: black;
+    scroll-snap-type:mandatory;
+   overflow-x: hidden;
+   scroll-snap-type: y proximity; */
+   gap: 15px;
+   margin-left:430px;
+ }
+ #card{
+    border:1px solid rgb(179, 177, 177);
+    width:230px;
+    height: 300px;
+   border-radius: 5px;
+   padding-left: 20px;
+   padding-right: 15px;
+   padding-top: 10px;
+   padding-bottom:2px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+ }
+ #valuestore2>:hover{
+    border-color: green;
+ }
+ #card img{
+    /* border: 1px solid black; */
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+ }
+ 
+ #card h3{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+ }
+ #card p{
+    font-size: 15px;
+    margin-top: 5px;
+ }
+ #card h4{
+    font-size: 15px;  
+    margin-top: 5px;
+ }
+ #card h5{
+    font-size: 15px; 
+    margin-top: 5px;
+ }
+ #right{
+    padding-right: 2px;
+ }
+ #add{
+    background-color: green;
+    color: aliceblue;
+    margin-top: 10px;
+ }
+ .valuestore3{
+    width: 330px;
+    height:890px;
+    /* border: 1px solid rgb(184, 65, 184); */
+    margin-left:60px;
+ }
+ body .valuestore3{
+    margin-top: -517%;
+ }
+ .valuestore4 h3{
+    width: 330px;
+    height:50px;
+    margin-top: -52%;
+    margin-left:61px;
+    border: 1px solid lightgray;
+    padding-top: 35px;
+ }
+ .valuestore5{
+    margin-left:61px ;
+ }
+ .valuestore5 input{
+    width: 250px;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 30px;
+    border-radius: 8px;
+ }
+ .valuestore6{
+    margin-left:61px ;
+    margin-top: 30px;
+ }
+.valuestore6sub1{
+   display: flex;
+   width: 300px;
+   gap: 70px;
+}
+.valuestore6sub2{
+   display: flex;
+   width: 300px;
+   gap: 74px;
+}
+.valuestore6sub3{
+   display: flex;
+   width: 300px;
+   gap: 78px;
+}
+.valuestore6sub4{
+   display: flex;
+   width: 300px;
+   gap: 65px;
+}
+.valuestore6sub5{
+   display: flex;
+   width: 300px;
+   gap: 73px;
+}
+.valuestore6sub6{
+   display: flex;
+   width: 300px;
+   gap: 73px;
+}
+.valuestore6sub7{
+   display: flex;
+   width: 300px;
+   gap: 69px;
+}
+.valuestore6sub8{
+   display: flex;
+   width: 300px;
+   gap: 68px;
+}
+.valuestore6sub9{
+   display: flex;
+   width: 300px;
+   gap: 68px;
+}
+.valuestore6sub10{
+   color:#10847E;
+   margin-top: 10px;
+   font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+/* https://pharmeasy.in/blog/wp-content/themes/Pharmeasy/assets/img/footer_logo.png */

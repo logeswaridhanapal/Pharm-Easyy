@@ -1,0 +1,63 @@
+.navbar1{
+    display:flex;
+     border:1px solid rgb(207, 201, 201); 
+   justify-content: space-evenly;
+   height: 55px;
+   margin-top: auto;
+   background-color: aliceblue;
+   /* position:sticky; */
+}
+.nav1sub1{
+    display: flex;
+    /* border: 1px solid green; */
+    justify-content: space-around;
+    width: 35%; 
+}
+.line{
+   width: 1px;
+   height: 40px;
+   border: 1px solid rgb(189, 177, 177);
+   margin: auto;
+}
+.fa-bolt-lightning{
+    color: goldenrod;
+ }
+.btn{
+    border: none;
+    height: 10px;
+}
+ .nav1sub2{
+    display: flex;
+    gap: 55px;
+    margin: auto;
+ }
+ .fa-mobile{
+    font-size:20px;
+ }
+ .fa-user{
+    font-size:20px;
+ }
+ .fa-percent{
+    font-size:20px;
+ }
+ .fa-bag-shopping{
+    font-size:20px;
+ }
+
+ .navbar2{
+   /* border: 1px solid red; */
+   width: 100%;
+   margin-top: 30px;
+ }
+ .nav2sub1{
+    margin-left:300px; 
+    display: flex;
+    gap:40px;
+    /* border: 1px solid black; */
+    width: 900px;
+ }
+ .nav2sub1>:hover{
+   color: green;
+   cursor: pointer;
+ }
+ 
